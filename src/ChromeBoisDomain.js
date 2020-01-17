@@ -19,7 +19,9 @@ export default class ChromeBoisDomain extends Component {
    * listener that should fire it!
    */
    handleKeyDown = (event) => {
-     if (event.key === 'a')
+     if (event.key === 'a') {
+       
+     }
    }
    
   /* TODO: Add an event listener to the `<canvas>` element to capture when a key
