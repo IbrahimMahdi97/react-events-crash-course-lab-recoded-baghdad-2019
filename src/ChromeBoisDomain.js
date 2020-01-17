@@ -11,7 +11,7 @@ export default class ChromeBoisDomain extends Component {
      * (`drawChromeBoiAtCoords` expects two arguments, an x and a y coordinate)
      */
      handleMouseMove = (event) => {
-       drawChromeBoiAtCoords(event.clientX, event.y)
+       drawChromeBoiAtCoords(event.clientX, event.Cliey)
      }
   }
   
